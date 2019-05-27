@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+}
+.container{
+    position: relative;
+}
+#header #logo{
+    background: darkgrey;
+    height: 150px;
+    width: 20%;
+    text-align: center;
+    float: left;
+}
+#header #banner{
+    background: blue;
+    height: 150px;
+    width: 80%;
+    text-align: center;
+    float: left;
+}
+#head-link{
+    background: antiquewhite;
+    height: 60px;
+    width: 100%;
+    clear: both;
+    text-align: center;
+}
+#left{
+    background: darksalmon;
+    height: 400px;
+    left: 10px;
+    width: 20%;
+    float: left;
+}
+#main{
+    background: darkgrey;
+    height: 400px;
+    width: 60%;
+    float: left;
+}
+#right{
+    background: darksalmon;
+    height: 400px;
+    left: 10px;
+    width: 20%;
+    float: left;
+}
+#footer{
+    background: darkcyan;
+    height: 87px;
+    left: 10px;
+    width: 100%;
+    clear: both;
+    text-align: center;
+}
